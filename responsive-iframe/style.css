@@ -3,7 +3,7 @@
 
 /* 16:9 ratio */
 
-.container {
+.iframe-container {
     position: relative;
     overflow: hidden;
     width: 100%;
